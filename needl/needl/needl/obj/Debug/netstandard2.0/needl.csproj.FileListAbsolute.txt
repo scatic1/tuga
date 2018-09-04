@@ -1,0 +1,11 @@
+C:\Users\selse\source\repos\needl\needl\needl\bin\Debug\netstandard2.0\needl.deps.json
+C:\Users\selse\source\repos\needl\needl\needl\bin\Debug\netstandard2.0\needl.dll
+C:\Users\selse\source\repos\needl\needl\needl\bin\Debug\netstandard2.0\needl.pdb
+C:\Users\selse\source\repos\needl\needl\needl\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\selse\source\repos\needl\needl\needl\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\selse\source\repos\needl\needl\needl\obj\Debug\netstandard2.0\needl.csproj.CoreCompileInputs.cache
+C:\Users\selse\source\repos\needl\needl\needl\obj\Debug\netstandard2.0\needl.AssemblyInfoInputs.cache
+C:\Users\selse\source\repos\needl\needl\needl\obj\Debug\netstandard2.0\needl.AssemblyInfo.cs
+C:\Users\selse\source\repos\needl\needl\needl\obj\Debug\netstandard2.0\needl.dll
+C:\Users\selse\source\repos\needl\needl\needl\obj\Debug\netstandard2.0\needl.pdb
+C:\Users\selse\source\repos\needl\needl\needl\obj\Debug\netstandard2.0\XamlC.stamp
